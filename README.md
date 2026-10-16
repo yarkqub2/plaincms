@@ -1,0 +1,2 @@
+# plaincms
+A plain cms
